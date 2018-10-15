@@ -8,5 +8,8 @@ git branch dev  and  checkout dev
 
 commit at dev 
 
-
 test merge dev
+
+   confilicts
+
+commit dev
