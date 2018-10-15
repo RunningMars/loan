@@ -3,3 +3,6 @@ init repository
 update infos at tonight
 
 update test agin
+
+git branch dev  and  checkout dev
+
