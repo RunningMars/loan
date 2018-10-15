@@ -19,5 +19,3 @@ commit gr4wagrgra
 
 
 commit checkout dev
-
-push2
