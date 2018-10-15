@@ -6,3 +6,4 @@ update test agin
 
 git branch dev  and  checkout dev
 
+commit at dev 
